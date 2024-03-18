@@ -1,0 +1,24 @@
+.grid-wrapper {
+    height: 100vh;
+    background-color: green;
+    position: relative;
+}
+
+.sidenav-container {
+    height: 100vh;
+    background-color: aqua;
+    width: 200px;
+    position: absolute;
+    top: 20;
+    left: 0;
+}
+
+.students-container {
+    background-color: yellow;
+    height: 100vh;
+
+}
+
+p {
+    color: black;
+}
